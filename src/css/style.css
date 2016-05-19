@@ -57,7 +57,7 @@ h6 {
 .btn-primary {
     color: #fff;
     background-color: #354b60;
-    border-color: #354b60;
+    border-color: #ecf0f1;
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700
@@ -69,7 +69,7 @@ h6 {
 .open .dropdown-toggle.btn-primary {
     color: #fff;
     background-color: #354b60;
-    border-color: #f6bf01
+    border-color: #354b60
 }
 .btn-primary:active,
 .btn-primary.active,
@@ -116,7 +116,7 @@ fieldset[disabled] .btn-primary.active {
 .open .dropdown-toggle.btn-xl {
     color: #fff;
     background-color: #354b60;
-    border-color: #f6bf01
+    border-color: #ecf0f1
 }
 .btn-xl:active,
 .btn-xl.active,
@@ -182,7 +182,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
-    color: #354b60;
+    color: #bdc3c7;
     outline: 0
 }
 .navbar-default .navbar-nav>.active>a {
@@ -309,7 +309,7 @@ section h3.section-subheading {
     margin: 0 auto
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
-    background: rgba(254, 209, 54, .9);
+    background: rgba(52, 73, 94, .9);
     position: absolute;
     width: 100%;
     height: 100%;
